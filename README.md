@@ -8,16 +8,16 @@ pembagian jodesk
 
 Data Understanding
 
-1. ID:	ID customer, ditentukan lewat incremental value berdasarkan urutan kapan customer mendaftar loyality program
+a. ID:	ID customer, ditentukan lewat incremental value berdasarkan urutan kapan customer mendaftar loyality program
 Jenis Kelamin	Pria, Wanita
-2. Umur:	Umur (dalam tahun)
-3. Pendapatan-per-bulan:	Pendapatan Customer dalam sebulan (Rupiah)
-4. skor-pengeluaran:	Skor yang diberikan oleh MixITup untuk mengukur seberapa besar pengeluaran customer di MixITUp, Nilainya antara 0-100
-5. Menikah:	Status pernikahan customer (0: Belum Menikah, 1: Menikah)
-6. Kota:	Kota dimana customer mendafatarkan loyality programnya
-7. Promo:	Seberapa sering customer menggunakan promonya: 0 (tidak pernah), 1(jarang), 2(sedang), 3 (sering)
-8. HariFav:	Hari paling sering pelanggan menggunakan kartu loyality programnya.
-9. FavFlavor:	Rasa Ice Cream yang paling sering dipilih customer
+b. Umur:	Umur (dalam tahun)
+c. Pendapatan-per-bulan:	Pendapatan Customer dalam sebulan (Rupiah)
+d. skor-pengeluaran:	Skor yang diberikan oleh MixITup untuk mengukur seberapa besar pengeluaran customer di MixITUp, Nilainya antara 0-100
+e. Menikah:	Status pernikahan customer (0: Belum Menikah, 1: Menikah)
+f. Kota:	Kota dimana customer mendafatarkan loyality programnya
+g. Promo:	Seberapa sering customer menggunakan promonya: 0 (tidak pernah), 1(jarang), 2(sedang), 3 (sering)
+h. HariFav:	Hari paling sering pelanggan menggunakan kartu loyality programnya.
+i. FavFlavor:	Rasa Ice Cream yang paling sering dipilih customer
 	0. Vanilla
 	1. Strawberry
 	2. Cokelat
