@@ -7,6 +7,7 @@ pembagian jodesk
 3. Customer Segmentation: Syahrul Akbar Ramdhani
 
 Data Understanding
+
 ID:	ID customer, ditentukan lewat incremental value berdasarkan urutan kapan customer mendaftar loyality program
 Jenis Kelamin	Pria, Wanita
 Umur:	Umur (dalam tahun)
